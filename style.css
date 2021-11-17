@@ -1,0 +1,62 @@
+
+
+body {
+  /* By default, the body has a margin around it.  Let's reset that to 0 to start with. */
+  margin: 0;
+}
+
+/* Only modify the styles within the following CSS Rules */
+
+.box-one {
+  background-color: lightblue;
+  height: 100px;
+  text-align: center;
+}
+
+.box-two {
+  background-color: lightcyan;
+  height: 100px;
+  text-align: center;
+  margin: 100px 20px 100px 20px;
+  line-height: 100px;
+}
+
+.box-three {
+  background-color: rgb(32, 178, 170) ;
+  width: 500px;
+  height: 20vh;
+  margin: auto;
+  text-align: right;
+  padding: 10px 10px;
+}
+
+.box-four {
+  background-color: #90ee90;
+  width: 25%;
+  height:25%;
+  margin: 20px auto 20px auto;
+  border-width: 5px;
+  border-style: solid;
+  border-color: greenyellow;
+  padding: 10px 10px 10px 10px;
+}
+
+.box-five {
+  width: 100px;
+  margin: auto;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: #008000;
+  padding: 20px 20px 60px 20px;
+}
+
+.box-six {
+  width: 100px;
+  margin: auto;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: lime;
+  margin-top: -50px;
+  padding: 5px 5px 5px 5px;
+
+}
